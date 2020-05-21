@@ -1,3 +1,10 @@
-aside a{
-    background-color: teal;
-}
+<style>
+header{background-color: rgb(250, 171, 2);}
+header{color: rgb(189, 135, 18);}
+nav {background-color: darkgoldenrod;}
+aside{background-color: rgb(151, 111, 10);}
+section {background-color: rgb(124, 91, 7);}
+article{background-color: rgb(85, 63, 6);}
+footer{background-color: rgb(44, 33, 3);}
+footer{color: burlywood;}
+</style>
